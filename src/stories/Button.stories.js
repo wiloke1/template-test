@@ -1,8 +1,7 @@
-import { action } from "@storybook/addon-actions";
-import { linkTo } from "@storybook/addon-links";
+import { action } from '@storybook/addon-actions';
 
 export default {
-  title: "Components/Button",
+  title: 'Components/Button',
 };
 
 export const Primary = () => {
