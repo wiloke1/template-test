@@ -1,0 +1,17 @@
+
+.btn {
+  border: 0;
+  background-color: $color-primary;
+  color: $color-light;
+  padding: px(20);
+  font-size: px(14);
+  cursor: pointer;
+}
+
+.btn--secondary {
+  background-color: $color-secondary;
+}
+
+.btn--tertiary {
+  background-color: $color-tertiary;
+}
